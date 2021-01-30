@@ -6,3 +6,6 @@ My IOS App! Collaborated with Yashodan Singh. Playwheapp version 1.0. that acts 
 UPDATE 12/16/20
 The current "ML" prediction functionality in the app is a really crude/naive model that I coded up myself using dictionaries. That model is not really a ML model. The stuff that I am currently working on are proper ML models- CNN, MLP, and Random Forests and seem to work the best so far. I need to move it from a Colab/python environment to Xcode/ObjC/Swift or integrate it in.
 
+UPDATE 01/30/21
+Best TestScore so far was 0.85. Still Developing in Colab.
+
